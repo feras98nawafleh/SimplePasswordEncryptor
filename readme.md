@@ -6,6 +6,6 @@
 
 ### we used the built in hashing technique using hashlib function
 
-![how strong your password is?](https://github.com/feras98nawafleh/SimplePasswordEncryptor/blob/[main]/strongPassword.jpeg?raw=true)
+![how strong your password is?](https://github.com/feras98nawafleh/SimplePasswordEncryptor/blob/main/strongPassword.jpeg)
 
 
