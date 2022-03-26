@@ -1,0 +1,2 @@
+This is your password: ahmadj
+This is your encrypted password: d994b076a33ec3b5a64a368933d249ef1bf39a49f4df5594fa5d2f23b908a76f
